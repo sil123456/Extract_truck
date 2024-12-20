@@ -74,11 +74,6 @@ ctr = vis.get_view_control()
 
 
 
-<<<<<<< HEAD
-=======
-# 创建视频编写器
-
->>>>>>> 5b954c0b1f27464e522aacb438a8fc61af6538f3
 out_path = r"movie\\bobtail_13_137.mp4"
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # 可根据需要选择其他编码器
 fps = 1  # fps
